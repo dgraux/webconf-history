@@ -1,0 +1,38 @@
+Data mining/session: click models
+Data mining/session: graph algorithms
+Data mining/session: text mining
+Data mining/session: statistical methods
+Data mining/session: opinions
+Data mining/session: web mining
+Data mining/session: learning
+Internet monetization/session: sponsored search
+Internet monetization/session: web monetization
+Performance, scalability and availability/session: performance
+Rich media/session: media applications
+Rich media/session: tagging and clustering
+Search/session: search UI
+Search/session: query processing
+Search/session: caching and indices
+Search/session: query categorization
+Search/session: ads and query expansion
+Security and privacy/session: web privacy
+Security and privacy/session: web security
+Semantic/data web/session: semantic data management
+Semantic/data web/session: linked data
+Semantic/data web/session: mining for semantics
+Social networks and web 2.0/session: recommender systems
+Social networks and web 2.0/session: diffusion and search in social networks
+Social networks and web 2.0/session: interactions in social communities
+Social networks and web 2.0/session: photos and web 2.0
+User interfaces and mobile web/session: mobile web
+User interfaces and mobile web/session: user interfaces
+Web engineering/session: end user web engineering
+Web engineering/session: service oriented development
+Web engineering/session: web architecture aspect
+Web engineering/session: client side web engineering
+XML and web data/session: XML extraction and crawling
+XML and web data/session: XML querying
+WWW in ibero-america
+Wednesday, April 22, 2009
+Thursday, April 23, 2009
+Friday, April 24, 2009

@@ -1,0 +1,23 @@
+PhD Symposium
+Attention Workshop
+5th AW4City 2019
+CyberSafety 2019
+Data Science for Social Good
+DL4G-SDE 2019
+First International Workshop on e-Commerce and NLP (ECNLP)
+Emoji2019 Workshop
+FATES on the WEB
+Augmenting Intelligence with Bias-aware Humans-in-the-loop (HumBL2019)
+Workshop on Hypermedia Multi-Agent Systems (HyperAgents 2019)
+First International Workshop on Knowledge Graph Technology and Applications
+LA-Web 2019
+The FAIR TRADE Framework for Assessing Decentralised Data Solutions
+LocWeb2019
+MDML'2019
+MEPDaW
+MisInfo 2019
+International Workshop on Modeling Social Media (MSM'2019)
+Workshop on Subjectivity, Ambiguity and Disagreement on the Web (SAD2019)
+TempWeb 2019
+Wiki Workshop
+The Third Workshop on Women in Web Data Science (WinDS '19)

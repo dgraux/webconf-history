@@ -1,0 +1,24 @@
+ED-1: Exchange of Learning Objects
+ED-2: Experience
+ED-4: Adaptation and Context
+ED-5: Data/Metadata
+GC-1: Is the Web Globally Inclusive?
+GC-2: The Web from a Galactic Perspective
+ID-1: XML - Standards and Applications
+ID-2: Emerging Standards
+ID-3: Web Service and Mobile Applications
+ID-4: Future Perspectives
+PE-1: Applications
+PE-2: Infrastructure
+WS-1: Collaboration, Composition, and Workflow
+WS-2: Web Services Management
+WS-3: Discovery and Semantics
+WS-4: Performance and Efficiency
+E-commerce and E-learning
+Multimedia
+Networking
+Performance
+Search and Data Mining
+Semantic Web
+UI, Applications and Visualization
+XML and Web Service

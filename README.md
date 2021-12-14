@@ -17,12 +17,12 @@ Content
 
 This repository contains:
 
-- `articles.txt` which lists DOIs and metadata about 7000+ already published articles at editions of the conference from 2001 to 2021.
-
+- `articles.txt` which lists DOIs and metadata about 7000+ already published articles at editions of the conference from 2001 to 2021;
+- `topics/` groups the files which lists the topics / sessions that where part of the programs for the editions of the conference.
 
 
 Authors
 -------
 
-Damien Graux, Inria (France)
-Fabrizio Orlandi, Adapt Centre at Trinity College Dublin (Ireland)
+Damien Graux, Inria (France)  
+Fabrizio Orlandi, ADAPT Centre at Trinity College Dublin (Ireland)  
