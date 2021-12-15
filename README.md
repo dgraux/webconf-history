@@ -1,4 +1,4 @@
-An history of the WebConf series
+A history of the WebConf series
 ================================
 
 > A repository about the WebConf series' history
